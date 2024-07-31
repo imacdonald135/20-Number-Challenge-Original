@@ -9,5 +9,5 @@ This one is to be run and played through the terminal, pretty straight forward.
 
 ## Automated Version
 
-This one a bot plays a lot of games and reports how many it won. The strategy it uses it to try put numbers 1-49 in slot one, 50-99 in slot to and so forth. If it can't it puts the number in the closest free elegant slot.
+This one a bot plays a lot of games and reports how many it won. The strategy it uses it to try put numbers 1-49 in slot one, 50-99 in slot two and so forth. If it can't it puts the number in the closest free elegant slot.
 
