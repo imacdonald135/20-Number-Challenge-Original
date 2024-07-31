@@ -1,3 +1,4 @@
+
 /usr/local/bin/python3 /Users/isaacmacdonald/Desktop/Python/numberchallengeplay.py
 /Users/isaacmacdonald/.zprofile:7: no such file or directory: /opt/homebrew/bin/brew
 ╭─    ~/Desktop/Python ··················································································································· ✔  at 10:38:07 am  ─╮
@@ -6,7 +7,7 @@
 -------------------------
 
 --------------------
- 1  :  
+ 1  :
  2  :  
  3  :  
  4  :  
