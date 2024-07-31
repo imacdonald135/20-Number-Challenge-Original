@@ -1,7 +1,7 @@
 # 20-Number-Challenge-Original
 These are the original python scripts I wrote for the 20 Number Challenge. Not the cleanest or greatest code but I wrote this quickly to get the idea down and basic functionality works.
 
-The game is very hard to beat, with around a 1/100000 chance of beating it using the stratergy the bot uses.
+The game is very hard to beat, with around a 1/10000 chance of beating it using the stratergy the bot uses.
 
 ## Player Version
 
